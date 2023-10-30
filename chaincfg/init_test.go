@@ -8,7 +8,7 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // mockVote is a convenience func to return a mock vote that is used as a base

@@ -7,7 +7,7 @@
 
 package rpctests
 
-import "github.com/decred/dcrd/wire"
+import "github.com/sebitt27/dcrd/wire"
 
 // newTxOut returns a new transaction output with the given parameters.
 func newTxOut(amount int64, pkScriptVer uint16, pkScript []byte) *wire.TxOut {

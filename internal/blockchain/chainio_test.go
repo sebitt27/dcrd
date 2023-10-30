@@ -14,13 +14,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/decred/dcrd/blockchain/stake/v5"
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/chaincfg/v3"
-	"github.com/decred/dcrd/database/v3"
-	"github.com/decred/dcrd/internal/staging/primitives"
-	"github.com/decred/dcrd/math/uint256"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/blockchain/stake/v5"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/v3"
+	"github.com/sebitt27/dcrd/database/v3"
+	"github.com/sebitt27/dcrd/internal/staging/primitives"
+	"github.com/sebitt27/dcrd/math/uint256"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // hexToFinalState converts the passed hex string into an array of 6 bytes and

@@ -11,10 +11,10 @@ import (
 	"sync"
 
 	"github.com/dchest/siphash"
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/dcrec/secp256k1/v4"
-	"github.com/decred/dcrd/dcrec/secp256k1/v4/ecdsa"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/dcrec/secp256k1/v4"
+	"github.com/sebitt27/dcrd/dcrec/secp256k1/v4/ecdsa"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // ProactiveEvictionDepth is the depth of the block at which the signatures for

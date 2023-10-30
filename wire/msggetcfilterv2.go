@@ -8,7 +8,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
 )
 
 // MsgGetCFilterV2 implements the Message interface and represents a decred

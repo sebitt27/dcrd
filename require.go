@@ -13,5 +13,5 @@
 package main
 
 import (
-	_ "github.com/decred/dcrd/bech32"
+	_ "github.com/sebitt27/dcrd/bech32"
 )

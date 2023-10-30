@@ -7,10 +7,10 @@ package stake
 import (
 	"fmt"
 
-	"github.com/decred/dcrd/dcrec/secp256k1/v4"
-	"github.com/decred/dcrd/dcrec/secp256k1/v4/schnorr"
-	"github.com/decred/dcrd/txscript/v4"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/dcrec/secp256k1/v4"
+	"github.com/sebitt27/dcrd/dcrec/secp256k1/v4/schnorr"
+	"github.com/sebitt27/dcrd/txscript/v4"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 const (

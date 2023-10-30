@@ -13,9 +13,9 @@ import (
 	"sort"
 	"sync"
 
-	"github.com/decred/dcrd/blockchain/stake/v5"
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/dcrutil/v4"
+	"github.com/sebitt27/dcrd/blockchain/stake/v5"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/dcrutil/v4"
 	"github.com/syndtr/goleveldb/leveldb"
 	ldbutil "github.com/syndtr/goleveldb/leveldb/util"
 )

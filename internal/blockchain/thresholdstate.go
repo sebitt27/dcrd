@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"math/bits"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/chaincfg/v3"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/v3"
 )
 
 // ThresholdState define the various threshold states used when voting on

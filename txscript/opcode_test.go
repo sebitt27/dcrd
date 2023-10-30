@@ -14,7 +14,7 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // testScriptFlags are the script flags which are used in the tests when

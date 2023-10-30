@@ -7,8 +7,8 @@ package stdscript
 import (
 	"fmt"
 
-	"github.com/decred/dcrd/dcrec"
-	"github.com/decred/dcrd/txscript/v4"
+	"github.com/sebitt27/dcrd/dcrec"
+	"github.com/sebitt27/dcrd/txscript/v4"
 )
 
 const (

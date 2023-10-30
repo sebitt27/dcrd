@@ -18,9 +18,9 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/database/v3"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/database/v3"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 const (

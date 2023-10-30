@@ -10,15 +10,15 @@ This patch release consists of 2 commits from 1 contributor which total to 3
 files changed, 55 additional lines of code, and 31 deleted lines of code.
 
 All commits since the last release may be viewed on GitHub
-[here](https://github.com/decred/dcrd/compare/release-v1.6.1...release-v1.6.2).
+[here](https://github.com/sebitt27/dcrd/compare/release-v1.6.1...release-v1.6.2).
 
 ### Protocol and network:
 
-- server: Only send fast block anns to full nodes ([decred/dcrd#2609](https://github.com/decred/dcrd/pull/2609))
+- server: Only send fast block anns to full nodes ([sebitt27/dcrd#2609](https://github.com/sebitt27/dcrd/pull/2609))
 
 ### Misc:
 
-- release: Bump for 1.6.2 ([decred/dcrd#2629](https://github.com/decred/dcrd/pull/2629))
+- release: Bump for 1.6.2 ([sebitt27/dcrd#2629](https://github.com/sebitt27/dcrd/pull/2629))
 
 ### Code Contributors (alphabetical order):
 

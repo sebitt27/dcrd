@@ -10,10 +10,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/decred/dcrd/blockchain/v5/chaingen"
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/chaincfg/v3"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/blockchain/v5/chaingen"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/v3"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // These variables are used to provide a shared set of generated blocks that

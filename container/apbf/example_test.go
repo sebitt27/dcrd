@@ -7,7 +7,7 @@ package apbf_test
 import (
 	"fmt"
 
-	"github.com/decred/dcrd/container/apbf"
+	"github.com/sebitt27/dcrd/container/apbf"
 )
 
 // This example demonstrates creating a new APBF, adding items to it up to the

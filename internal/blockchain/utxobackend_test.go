@@ -11,7 +11,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/wire"
 	"github.com/syndtr/goleveldb/leveldb"
 	ldberrors "github.com/syndtr/goleveldb/leveldb/errors"
 )

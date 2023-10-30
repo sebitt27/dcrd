@@ -10,7 +10,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/wire"
 	"github.com/decred/slog"
 )
 

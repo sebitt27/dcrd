@@ -12,7 +12,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/decred/dcrd/dcrec"
+	"github.com/sebitt27/dcrd/dcrec"
 )
 
 // hexToBytes converts the passed hex string into bytes and will panic if there

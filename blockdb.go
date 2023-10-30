@@ -12,10 +12,10 @@ import (
 	"os"
 	"path/filepath"
 
-	"github.com/decred/dcrd/chaincfg/v3"
-	"github.com/decred/dcrd/database/v3"
-	"github.com/decred/dcrd/internal/blockchain"
-	"github.com/decred/dcrd/internal/progresslog"
+	"github.com/sebitt27/dcrd/chaincfg/v3"
+	"github.com/sebitt27/dcrd/database/v3"
+	"github.com/sebitt27/dcrd/internal/blockchain"
+	"github.com/sebitt27/dcrd/internal/progresslog"
 )
 
 const (

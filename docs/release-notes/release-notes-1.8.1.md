@@ -18,21 +18,21 @@ This patch release consists of 5 commits from 2 contributors which total to 7
 files changed, 47 additional lines of code, and 29 deleted lines of code.
 
 All commits since the last release may be viewed on GitHub
-[here](https://github.com/decred/dcrd/compare/release-v1.8.0...release-v1.8.1).
+[here](https://github.com/sebitt27/dcrd/compare/release-v1.8.0...release-v1.8.1).
 
 ### RPC:
 
-- rpc: Add PoWHash to getblock/getblockheader (verbose) results ([decred/dcrd#3192](https://github.com/decred/dcrd/pull/3192))
-- rpcserver: Modify getnetworkhashps -1 blocks logic ([decred/dcrd#3193](https://github.com/decred/dcrd/pull/3193))
+- rpc: Add PoWHash to getblock/getblockheader (verbose) results ([sebitt27/dcrd#3192](https://github.com/sebitt27/dcrd/pull/3192))
+- rpcserver: Modify getnetworkhashps -1 blocks logic ([sebitt27/dcrd#3193](https://github.com/sebitt27/dcrd/pull/3193))
 
 ### Developer-related package and module changes:
 
-- jsonrpc/types: Add powhash to verbose block output ([decred/dcrd#3192](https://github.com/decred/dcrd/pull/3192))
-- main: Use backported rpc types updates ([decred/dcrd#3192](https://github.com/decred/dcrd/pull/3192))
+- jsonrpc/types: Add powhash to verbose block output ([sebitt27/dcrd#3192](https://github.com/sebitt27/dcrd/pull/3192))
+- main: Use backported rpc types updates ([sebitt27/dcrd#3192](https://github.com/sebitt27/dcrd/pull/3192))
 
 ### Misc:
 
-- release: Bump for 1.8.1 ([decred/dcrd#3194](https://github.com/decred/dcrd/pull/3194))
+- release: Bump for 1.8.1 ([sebitt27/dcrd#3194](https://github.com/sebitt27/dcrd/pull/3194))
 
 ### Code Contributors (alphabetical order):
 

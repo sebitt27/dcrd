@@ -9,8 +9,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/math/uint256"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/math/uint256"
 )
 
 // hexToBytes converts the passed hex string into bytes and will panic if there

@@ -1,9 +1,9 @@
 sampleconfig
 ============
 
-[![Build Status](https://github.com/decred/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/decred/dcrd/actions)
+[![Build Status](https://github.com/sebitt27/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/sebitt27/dcrd/actions)
 [![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/decred/dcrd/sampleconfig)
+[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/sebitt27/dcrd/sampleconfig)
 
 Package sampleconfig provides functions that return the contents of sample
 configuration files for dcrd and dcrctl.  This is provided for tools that
@@ -13,7 +13,7 @@ also provides samples of other configuration options.
 
 ## Installation and Updating
 
-This package is part of the `github.com/decred/dcrd` module.  Use the standard
+This package is part of the `github.com/sebitt27/dcrd` module.  Use the standard
 go tooling for working with modules to incorporate it.
 
 ## License

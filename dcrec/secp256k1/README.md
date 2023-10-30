@@ -1,9 +1,9 @@
 secp256k1
 =========
 
-[![Build Status](https://github.com/decred/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/decred/dcrd/actions)
+[![Build Status](https://github.com/sebitt27/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/sebitt27/dcrd/actions)
 [![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/decred/dcrd/dcrec/secp256k1/v4)
+[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/sebitt27/dcrd/dcrec/secp256k1/v4)
 
 Package secp256k1 implements optimized secp256k1 elliptic curve operations.
 
@@ -57,12 +57,12 @@ defined by the secp256k1 domain parameters.
 
 ## Installation and Updating
 
-This package is part of the `github.com/decred/dcrd/dcrec/secp256k1/v4` module.
+This package is part of the `github.com/sebitt27/dcrd/dcrec/secp256k1/v4` module.
 Use the standard go tooling for working with modules to incorporate it.
 
 ## Examples
 
-* [Encryption](https://pkg.go.dev/github.com/decred/dcrd/dcrec/secp256k1/v4#example-package-EncryptDecryptMessage)
+* [Encryption](https://pkg.go.dev/github.com/sebitt27/dcrd/dcrec/secp256k1/v4#example-package-EncryptDecryptMessage)
   Demonstrates encrypting and decrypting a message using a shared key derived
   through ECDHE.
 

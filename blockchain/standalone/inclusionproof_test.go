@@ -7,7 +7,7 @@ package standalone
 import (
 	"testing"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
 )
 
 // TestGenerateInclusionProof ensures the expected proofs are produced for

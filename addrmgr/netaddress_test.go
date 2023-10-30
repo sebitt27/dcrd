@@ -9,7 +9,7 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // TestKey verifies that Key converts a network address to an expected string

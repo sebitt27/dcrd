@@ -117,13 +117,13 @@ The RPC server version as of this release is {TODO: RPC server version}
 
 {TODO: Describe change}
 
-- [{TODO: RPC method} JSON-RPC API Documentation](https://github.com/decred/dcrd/blob/master/docs/json_rpc_api.mediawiki#{TODO: RPC method})
+- [{TODO: RPC method} JSON-RPC API Documentation](https://github.com/sebitt27/dcrd/blob/master/docs/json_rpc_api.mediawiki#{TODO: RPC method})
 
 #### {TODO: API change 2} (`{TODO: affected RPC}`)
 
 {TODO: Describe change}
 
-- [{TODO: RPC method} JSON-RPC API Documentation](https://github.com/decred/dcrd/blob/master/docs/json_rpc_api.mediawiki#{TODO: RPC method})
+- [{TODO: RPC method} JSON-RPC API Documentation](https://github.com/sebitt27/dcrd/blob/master/docs/json_rpc_api.mediawiki#{TODO: RPC method})
 
 ## Changelog
 
@@ -132,7 +132,7 @@ to {TODO: #} files changed, {TODO: #} additional lines of code, and {TODO: #} de
 lines of code.
 
 All commits since the last release may be viewed on GitHub
-[here](https://github.com/decred/dcrd/compare/release-v{TODO: X.Y.Z}...release-v{TODO: X.Y}.0).
+[here](https://github.com/sebitt27/dcrd/compare/release-v{TODO: X.Y.Z}...release-v{TODO: X.Y}.0).
 
 ### Protocol and network:
 

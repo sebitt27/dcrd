@@ -1,9 +1,9 @@
 txscript
 ========
 
-[![Build Status](https://github.com/decred/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/decred/dcrd/actions)
+[![Build Status](https://github.com/sebitt27/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/sebitt27/dcrd/actions)
 [![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/decred/dcrd/txscript/v4)
+[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/sebitt27/dcrd/txscript/v4)
 
 Package txscript implements the Decred transaction script language.  There is
 a comprehensive test suite.
@@ -19,12 +19,12 @@ powerful.
 
 ## Installation and Updating
 
-This package is part of the `github.com/decred/dcrd/txscript/v3` module.  Use
+This package is part of the `github.com/sebitt27/dcrd/txscript/v3` module.  Use
 the standard go tooling for working with modules to incorporate it.
 
 ## Examples
 
-* [Counting Opcodes in Scripts](https://pkg.go.dev/github.com/decred/dcrd/txscript/v4#example-ScriptTokenizer)
+* [Counting Opcodes in Scripts](https://pkg.go.dev/github.com/sebitt27/dcrd/txscript/v4#example-ScriptTokenizer)
   Demonstrates creating a script tokenizer instance and using it to count the
   number of opcodes a script contains.
 

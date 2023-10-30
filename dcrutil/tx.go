@@ -10,8 +10,8 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // assertTransactionImmutability throws a panic when a transaction has been

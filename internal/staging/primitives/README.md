@@ -1,15 +1,15 @@
 primitives
 ==========
 
-[![Build Status](https://github.com/decred/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/decred/dcrd/actions)
+[![Build Status](https://github.com/sebitt27/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/sebitt27/dcrd/actions)
 [![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/decred/dcrd/internal/staging/primitives)
+[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/sebitt27/dcrd/internal/staging/primitives)
 
 ## Package and Module Status
 
 This package is currently a work in progress in the context of a larger refactor
 and thus does not yet provide most of the things that are ultimately planned.
-See https://github.com/decred/dcrd/issues/2786 for further details.
+See https://github.com/sebitt27/dcrd/issues/2786 for further details.
 
 The intention is to create a containing `primitives` module that will be kept at
 an experimental module version ("v0") until everything is stabilized to avoid

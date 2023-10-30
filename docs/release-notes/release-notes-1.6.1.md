@@ -14,16 +14,16 @@ This patch release consists of 3 commits from 1 contributor which total to 3
 files changed, 30 additional lines of code, and 9 deleted lines of code.
 
 All commits since the last release may be viewed on GitHub
-[here](https://github.com/decred/dcrd/compare/release-v1.6.0...release-v1.6.1).
+[here](https://github.com/sebitt27/dcrd/compare/release-v1.6.0...release-v1.6.1).
 
 ### Protocol and network:
 
-- server: Notify block mgr later and track ntfn ([decred/dcrd#2588](https://github.com/decred/dcrd/pull/2588))
-- server: Force PoW upgrade to v8 ([decred/dcrd#2597](https://github.com/decred/dcrd/pull/2597))
+- server: Notify block mgr later and track ntfn ([sebitt27/dcrd#2588](https://github.com/sebitt27/dcrd/pull/2588))
+- server: Force PoW upgrade to v8 ([sebitt27/dcrd#2597](https://github.com/sebitt27/dcrd/pull/2597))
 
 ### Misc:
 
-- release: Bump for 1.6.1 ([decred/dcrd#2600](https://github.com/decred/dcrd/pull/2600))
+- release: Bump for 1.6.1 ([sebitt27/dcrd#2600](https://github.com/sebitt27/dcrd/pull/2600))
 
 ### Code Contributors (alphabetical order):
 

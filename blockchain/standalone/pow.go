@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
 )
 
 var (

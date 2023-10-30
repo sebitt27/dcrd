@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"io"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
 )
 
 // MessageHeaderSize is the number of bytes in a Decred message header.

@@ -9,9 +9,9 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/txscript/v4"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/txscript/v4"
+	"github.com/sebitt27/dcrd/wire"
 	"github.com/decred/slog"
 )
 

@@ -11,7 +11,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
 )
 
 // AssertError identifies an error that indicates an internal code consistency

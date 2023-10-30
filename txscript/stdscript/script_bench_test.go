@@ -9,7 +9,7 @@ import (
 	"fmt"
 	"testing"
 
-	"github.com/decred/dcrd/txscript/v4"
+	"github.com/sebitt27/dcrd/txscript/v4"
 )
 
 // These variables are used to help ensure the benchmarks do not elide code.

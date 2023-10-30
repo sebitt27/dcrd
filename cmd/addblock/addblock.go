@@ -12,10 +12,10 @@ import (
 	"path/filepath"
 	"runtime"
 
-	"github.com/decred/dcrd/database/v3"
-	"github.com/decred/dcrd/internal/blockchain"
-	"github.com/decred/dcrd/internal/blockchain/indexers"
-	"github.com/decred/dcrd/internal/limits"
+	"github.com/sebitt27/dcrd/database/v3"
+	"github.com/sebitt27/dcrd/internal/blockchain"
+	"github.com/sebitt27/dcrd/internal/blockchain/indexers"
+	"github.com/sebitt27/dcrd/internal/limits"
 	"github.com/decred/slog"
 )
 

@@ -8,8 +8,8 @@ package dcrutil
 import (
 	"hash"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/crypto/ripemd160"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/crypto/ripemd160"
 )
 
 // Calculate the hash of hasher over buf.

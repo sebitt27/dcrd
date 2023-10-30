@@ -1,9 +1,9 @@
 chaincfg
 ========
 
-[![Build Status](https://github.com/decred/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/decred/dcrd/actions)
+[![Build Status](https://github.com/sebitt27/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/sebitt27/dcrd/actions)
 [![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/decred/dcrd/chaincfg/v3)
+[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/sebitt27/dcrd/chaincfg/v3)
 
 Package chaincfg defines chain configuration parameters for the four standard
 Decred networks.
@@ -23,8 +23,8 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/decred/dcrd/chaincfg/v3"
-	"github.com/decred/dcrd/txscript/v4/stdaddr"
+	"github.com/sebitt27/dcrd/chaincfg/v3"
+	"github.com/sebitt27/dcrd/txscript/v4/stdaddr"
 )
 
 func main() {
@@ -54,7 +54,7 @@ func main() {
 
 ## Installation and Updating
 
-This package is part of the `github.com/decred/dcrd/chaincfg/v3` module.  Use
+This package is part of the `github.com/sebitt27/dcrd/chaincfg/v3` module.  Use
 the standard go tooling for working with modules to incorporate it.
 
 ## License

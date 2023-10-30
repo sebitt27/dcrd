@@ -15,14 +15,14 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/chaincfg/v3"
-	"github.com/decred/dcrd/crypto/blake256"
-	"github.com/decred/dcrd/dcrutil/v4"
-	"github.com/decred/dcrd/internal/blockchain"
-	"github.com/decred/dcrd/internal/mining"
-	"github.com/decred/dcrd/internal/staging/primitives"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/v3"
+	"github.com/sebitt27/dcrd/crypto/blake256"
+	"github.com/sebitt27/dcrd/dcrutil/v4"
+	"github.com/sebitt27/dcrd/internal/blockchain"
+	"github.com/sebitt27/dcrd/internal/mining"
+	"github.com/sebitt27/dcrd/internal/staging/primitives"
+	"github.com/sebitt27/dcrd/wire"
 	"lukechampine.com/blake3"
 )
 

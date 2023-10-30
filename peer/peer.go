@@ -18,9 +18,9 @@ import (
 	"time"
 
 	"github.com/davecgh/go-spew/spew"
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/lru"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/lru"
+	"github.com/sebitt27/dcrd/wire"
 	"github.com/decred/go-socks/socks"
 	"github.com/decred/slog"
 )

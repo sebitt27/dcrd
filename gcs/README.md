@@ -1,9 +1,9 @@
 gcs
 ===
 
-[![Build Status](https://github.com/decred/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/decred/dcrd/actions)
+[![Build Status](https://github.com/sebitt27/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/sebitt27/dcrd/actions)
 [![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/decred/dcrd/gcs/v2)
+[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/sebitt27/dcrd/gcs/v2)
 
 Package gcs provides an API for building and using Golomb-coded sets.
 
@@ -42,7 +42,7 @@ DCP0005](https://github.com/decred/dcps/blob/master/dcp-0005/dcp-0005.mediawiki#
 
 ## Installation and Updating
 
-This package is part of the `github.com/decred/dcrd/gcs/v2` module.  Use the
+This package is part of the `github.com/sebitt27/dcrd/gcs/v2` module.  Use the
 standard go tooling for working with modules to incorporate it.
 
 ## License

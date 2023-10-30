@@ -11,7 +11,7 @@ which total to {TODO: #} files changed, {TODO: #} additional lines of code, and
 {TODO: #} deleted lines of code.
 
 All commits since the last release may be viewed on GitHub
-[here](https://github.com/decred/dcrd/compare/release-v{TODO:X.Y.Z-1}...release-v{TODO: X.Y.Z}).
+[here](https://github.com/sebitt27/dcrd/compare/release-v{TODO:X.Y.Z-1}...release-v{TODO: X.Y.Z}).
 
 ### {TODO: Categorized commits -- Follow categories from major release template}
 

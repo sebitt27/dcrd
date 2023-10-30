@@ -7,7 +7,7 @@ package blockchain
 import (
 	"testing"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
 )
 
 // TestCalcCommitmentRootV1 ensures the expected version 1 commitment root is

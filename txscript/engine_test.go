@@ -9,8 +9,8 @@ import (
 	"errors"
 	"testing"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // TestBadPC sets the pc to a deliberately bad result then confirms that Step

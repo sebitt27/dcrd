@@ -9,8 +9,8 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // MainNetParams returns the network parameters for the main Decred network.

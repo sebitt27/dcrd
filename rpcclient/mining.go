@@ -11,9 +11,9 @@ import (
 	"encoding/json"
 	"errors"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/dcrutil/v4"
-	chainjson "github.com/decred/dcrd/rpc/jsonrpc/types/v4"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/dcrutil/v4"
+	chainjson "github.com/sebitt27/dcrd/rpc/jsonrpc/types/v4"
 )
 
 // FutureGenerateResult is a future promise to deliver the result of a

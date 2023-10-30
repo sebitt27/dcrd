@@ -9,9 +9,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/decred/dcrd/blockchain/v5/chaingen"
-	"github.com/decred/dcrd/chaincfg/v3"
-	"github.com/decred/dcrd/txscript/v4/stdscript"
+	"github.com/sebitt27/dcrd/blockchain/v5/chaingen"
+	"github.com/sebitt27/dcrd/chaincfg/v3"
+	"github.com/sebitt27/dcrd/txscript/v4/stdscript"
 )
 
 // TestExistsAddrIndexAsync ensures the exist address index

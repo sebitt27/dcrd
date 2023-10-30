@@ -7,8 +7,8 @@ package stake
 import (
 	"testing"
 
-	"github.com/decred/dcrd/txscript/v4"
-	"github.com/decred/dcrd/txscript/v4/stdaddr"
+	"github.com/sebitt27/dcrd/txscript/v4"
+	"github.com/sebitt27/dcrd/txscript/v4/stdaddr"
 )
 
 var (

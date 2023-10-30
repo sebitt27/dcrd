@@ -5,7 +5,7 @@
 package netsync
 
 import (
-	"github.com/decred/dcrd/dcrutil/v4"
+	"github.com/sebitt27/dcrd/dcrutil/v4"
 )
 
 // PeerNotifier provides an interface to notify peers of status changes related

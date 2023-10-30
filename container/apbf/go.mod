@@ -1,4 +1,4 @@
-module github.com/decred/dcrd/container/apbf
+module github.com/sebitt27/dcrd/container/apbf
 
 go 1.17
 

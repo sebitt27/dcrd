@@ -10,10 +10,10 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/decred/dcrd/blockchain/standalone/v2"
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/chaincfg/v3"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/blockchain/standalone/v2"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/v3"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 var (

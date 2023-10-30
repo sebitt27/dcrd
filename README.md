@@ -1,10 +1,10 @@
 dcrd
 ====
 
-[![Build Status](https://github.com/decred/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/decred/dcrd/actions)
+[![Build Status](https://github.com/sebitt27/dcrd/workflows/Build%20and%20Test/badge.svg)](https://github.com/sebitt27/dcrd/actions)
 [![ISC License](https://img.shields.io/badge/license-ISC-blue.svg)](http://copyfree.org)
-[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/decred/dcrd)
-[![Go Report Card](https://goreportcard.com/badge/github.com/decred/dcrd)](https://goreportcard.com/report/github.com/decred/dcrd)
+[![Doc](https://img.shields.io/badge/doc-reference-blue.svg)](https://pkg.go.dev/github.com/sebitt27/dcrd)
+[![Go Report Card](https://goreportcard.com/badge/github.com/sebitt27/dcrd)](https://goreportcard.com/report/github.com/sebitt27/dcrd)
 
 ## Decred Overview
 
@@ -159,7 +159,7 @@ https://decred.org/downloads/
 <details><summary><b>Windows Example</b></summary>
 
   ```PowerShell
-  PS> git clone https://github.com/decred/dcrd $env:USERPROFILE\src\dcrd
+  PS> git clone https://github.com/sebitt27/dcrd $env:USERPROFILE\src\dcrd
   PS> cd $env:USERPROFILE\src\dcrd
   PS> go install . .\cmd\...
   PS> dcrd -V
@@ -173,7 +173,7 @@ https://decred.org/downloads/
   in dependencies.
 
   ```sh
-  $ git clone https://github.com/decred/dcrd $HOME/src/dcrd
+  $ git clone https://github.com/sebitt27/dcrd $HOME/src/dcrd
   $ git clone https://github.com/decred/dcrctl $HOME/src/dcrctl
   $ (cd $HOME/src/dcrd && go install . ./...)
   $ (cd $HOME/src/dcrctl && go install)
@@ -223,13 +223,13 @@ https://decred.org/community/
 
 ## Issue Tracker
 
-The [integrated github issue tracker](https://github.com/decred/dcrd/issues)
+The [integrated github issue tracker](https://github.com/sebitt27/dcrd/issues)
 is used for this project.
 
 ## Documentation
 
 The documentation for dcrd is a work-in-progress.  It is located in the
-[docs](https://github.com/decred/dcrd/tree/master/docs) folder.
+[docs](https://github.com/sebitt27/dcrd/tree/master/docs) folder.
 
 ## License
 

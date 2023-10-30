@@ -19,7 +19,7 @@ ReadWritePaths=/home/dcrd/.dcrd/data
 ReadWritePaths=/home/dcrd/.dcrd/logs
 
 # launch dcrd
-ExecStart=/home/dcrd/decred/dcrd
+ExecStart=/home/dcrd/sebitt27/dcrd
 
 # restart dcrd
 TimeoutStopSec=10s

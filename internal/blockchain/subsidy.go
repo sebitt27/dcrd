@@ -9,12 +9,12 @@ import (
 	"bytes"
 	"fmt"
 
-	"github.com/decred/dcrd/blockchain/stake/v5"
-	"github.com/decred/dcrd/blockchain/standalone/v2"
-	"github.com/decred/dcrd/chaincfg/v3"
-	"github.com/decred/dcrd/dcrutil/v4"
-	"github.com/decred/dcrd/txscript/v4"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/blockchain/stake/v5"
+	"github.com/sebitt27/dcrd/blockchain/standalone/v2"
+	"github.com/sebitt27/dcrd/chaincfg/v3"
+	"github.com/sebitt27/dcrd/dcrutil/v4"
+	"github.com/sebitt27/dcrd/txscript/v4"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // blockOneCoinbasePaysTokens checks to see if the first block coinbase pays

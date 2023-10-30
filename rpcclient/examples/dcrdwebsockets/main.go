@@ -12,8 +12,8 @@ import (
 	"path/filepath"
 	"time"
 
-	"github.com/decred/dcrd/dcrutil/v4"
-	"github.com/decred/dcrd/rpcclient/v8"
+	"github.com/sebitt27/dcrd/dcrutil/v4"
+	"github.com/sebitt27/dcrd/rpcclient/v8"
 )
 
 func main() {

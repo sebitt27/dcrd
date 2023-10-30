@@ -15,14 +15,14 @@ import (
 	"sort"
 	"time"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/chaincfg/v3"
-	"github.com/decred/dcrd/dcrutil/v4"
-	"github.com/decred/dcrd/txscript/v4"
-	"github.com/decred/dcrd/txscript/v4/sign"
-	"github.com/decred/dcrd/txscript/v4/stdaddr"
-	"github.com/decred/dcrd/txscript/v4/stdscript"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/v3"
+	"github.com/sebitt27/dcrd/dcrutil/v4"
+	"github.com/sebitt27/dcrd/txscript/v4"
+	"github.com/sebitt27/dcrd/txscript/v4/sign"
+	"github.com/sebitt27/dcrd/txscript/v4/stdaddr"
+	"github.com/sebitt27/dcrd/txscript/v4/stdscript"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 var (

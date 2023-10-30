@@ -12,13 +12,13 @@ import (
 	"sync"
 	"time"
 
-	"github.com/decred/dcrd/blockchain/stake/v5"
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/dcrutil/v4"
-	"github.com/decred/dcrd/internal/blockchain"
-	"github.com/decred/dcrd/lru"
-	"github.com/decred/dcrd/txscript/v4/stdaddr"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/blockchain/stake/v5"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/dcrutil/v4"
+	"github.com/sebitt27/dcrd/internal/blockchain"
+	"github.com/sebitt27/dcrd/lru"
+	"github.com/sebitt27/dcrd/txscript/v4/stdaddr"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 const (

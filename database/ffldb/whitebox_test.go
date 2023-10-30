@@ -20,9 +20,9 @@ import (
 	"path/filepath"
 	"testing"
 
-	"github.com/decred/dcrd/database/v3"
-	"github.com/decred/dcrd/dcrutil/v4"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/database/v3"
+	"github.com/sebitt27/dcrd/dcrutil/v4"
+	"github.com/sebitt27/dcrd/wire"
 	"github.com/syndtr/goleveldb/leveldb"
 	ldberrors "github.com/syndtr/goleveldb/leveldb/errors"
 )

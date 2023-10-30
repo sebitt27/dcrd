@@ -11,12 +11,12 @@ import (
 	"encoding/hex"
 	"encoding/json"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
-	"github.com/decred/dcrd/dcrjson/v4"
-	"github.com/decred/dcrd/dcrutil/v4"
-	chainjson "github.com/decred/dcrd/rpc/jsonrpc/types/v4"
-	"github.com/decred/dcrd/txscript/v4/stdaddr"
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/dcrjson/v4"
+	"github.com/sebitt27/dcrd/dcrutil/v4"
+	chainjson "github.com/sebitt27/dcrd/rpc/jsonrpc/types/v4"
+	"github.com/sebitt27/dcrd/txscript/v4/stdaddr"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // FutureGetRawTransactionResult is a future promise to deliver the result of a

@@ -10,7 +10,7 @@ import (
 	"encoding/binary"
 	"strings"
 
-	"github.com/decred/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
 )
 
 // These are the constants specified for maximums in individual scripts.

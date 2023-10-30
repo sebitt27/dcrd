@@ -15,7 +15,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/decred/dcrd/wire"
+	"github.com/sebitt27/dcrd/wire"
 )
 
 // Put some IP in here for convenience. Points to google.

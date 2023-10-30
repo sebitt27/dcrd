@@ -9,8 +9,8 @@ import (
 	"fmt"
 	"math/big"
 
-	"github.com/decred/dcrd/blockchain/standalone/v2"
-	"github.com/decred/dcrd/chaincfg/chainhash"
+	"github.com/sebitt27/dcrd/blockchain/standalone/v2"
+	"github.com/sebitt27/dcrd/chaincfg/chainhash"
 )
 
 // This example demonstrates how to convert the compact "bits" in a block header
